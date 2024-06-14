@@ -46,13 +46,13 @@ A detailed and fun command-line system information tool. Install and use it now!
 ```
 /usr/local/bin
 ```
-
-
-
-
   
 ## 👷🏻‍♂️ Author
 
 • [@NotYello](https://www.github.com/NotYello) for design and development.
+
+## 👨🏻‍💻 Developer's Note
+
+Since I am new to writing shell scripts, I may have made mistakes while writing the script. And I've only been able to test the tool on two systems, so please let me know of any bugs. Enjoy!
 
   
