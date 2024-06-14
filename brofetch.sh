@@ -4,7 +4,7 @@ ram=$(grep MemTotal /proc/meminfo | awk '{printf "%.2f GB", $2 / 1024 / 1024}')
 gpu=$(lspci | grep -i 'vga\|3d' | grep -i 'nvidia\|amd\|intel' | head -n 1 | awk -F ': ' '{print $2}' | sed 's/.*\[\(.*\)\].*/\1/' | tr -d '\n\r')
 cpu=$(grep 'model name' /proc/cpuinfo | uniq | awk -F ': ' '{print $2}' | sed 's/ @.*//' | tr -d '\n\r')
 
-os=$(lsb_release -ds | tr -d '\n\r')
+os=$(grep '^PRETTY_NAME=' /etc/os-release | cut -d= -f2 | tr -d '"')
 de=$(echo $DESKTOP_SESSION | sed -e 's/.*/\L&/; s/[a-z]/\u&/')
 
 up=$(uptime -p | awk '{print $2}')
