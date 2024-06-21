@@ -1,5 +1,5 @@
 
-# 🫂 brofetch (DISCONTINUED)
+# 🫂 brofetch
 
 A detailed and fun command-line system information tool. Install and use it now!
 
