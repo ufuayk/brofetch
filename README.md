@@ -49,7 +49,7 @@ A detailed and fun command-line system information tool. Install and use it now!
   
 ## 👷🏻‍♂️ Author
 
-• [@NotYello](https://www.github.com/NotYello) for design and development.
+• [@Yello](https://www.github.com/CoderYello) for design and development.
 
 ## 👨🏻‍💻 Developer's Note
 
