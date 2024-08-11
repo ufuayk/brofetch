@@ -3,7 +3,7 @@
 
 A detailed and fun command-line system information tool. Install and use it now!
 
-![image](https://raw.githubusercontent.com/CoderYello/brofetch/main/screenshots/screenshot.png)
+![image](https://raw.githubusercontent.com/ufuayk/brofetch/main/screenshots/screenshot.png)
 
 ## 📋 Requirements
 
@@ -15,7 +15,7 @@ A detailed and fun command-line system information tool. Install and use it now!
 • Clone the project;
 
 ```bash
-  git clone https://github.com/CoderYello/brofetch
+  git clone https://github.com/ufuayk/brofetch
 ```
 
 • Go to the project directory;
@@ -49,7 +49,7 @@ A detailed and fun command-line system information tool. Install and use it now!
   
 ## 👷🏻‍♂️ Author
 
-• [@Yello](https://www.github.com/CoderYello) for design and development.
+• [@ufuayk](https://www.github.com/ufuayk) for design and development.
 
 ## 👨🏻‍💻 Developer's Note
 
