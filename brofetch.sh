@@ -23,7 +23,7 @@ RESET='\e[0m'
 echo""
 printf " ${CYAN}${RESET} • Hey ${CYAN}%s${RESET}!\n" "$name"
 printf " ${CYAN}󰔚${RESET} • It's now ${CYAN}%s${RESET}.\n" "$time"
-printf " ${CYAN}${RESET} • It's ${CYAN}%s${RESET} today.\n" "$day"
+printf " ${CYAN}󱑎${RESET} • It's ${CYAN}%s${RESET} today.\n" "$day"
 echo""
 printf " ${CYAN}${RESET} • I can't believe it, mate, you actually have ${CYAN}%s${RESET} of RAM in your computer! That's really unbelievable.\n" "$ram"
 printf " ${CYAN}${RESET} • Oh! Oh! No no, this can't be real! You have a ${CYAN}%s${RESET}? Oh, my God!\n" "$gpu"
